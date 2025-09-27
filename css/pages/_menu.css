@@ -5,6 +5,7 @@
 }
 body{
     background-color: red;
+}
 header {
     position: relative;
 }
@@ -82,3 +83,4 @@ nav {
     display: none;
 
 }
+
