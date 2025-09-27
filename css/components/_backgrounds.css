@@ -1,0 +1,24 @@
+:root {
+    --primary-color: #5e17eb;
+    --secondary-color: #39ff35;
+    --background-video-menu: url('')
+}
+
+.background-primary {
+    background-color: var(--primary-color);
+}
+
+.background-secundary {
+    background-color: var(--secondary-color);
+}
+
+.video-background {
+    display: none;
+    position: absolute;
+    z-index: -1;
+}
+
+.image-background {
+    z-index: -1;
+    position: absolute;
+}
